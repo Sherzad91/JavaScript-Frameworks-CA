@@ -1,0 +1,46 @@
+.card {
+    background-color: #fff;
+    padding: 14px;
+    border: none
+}
+
+.img-thum {
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+}
+.rating{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+hr {
+    color: #d4d4d4
+}
+
+.date span {
+    font-size: 12px
+}
+
+
+.buttons {
+    margin-top: 15px
+}
+
+.buttons .btn {
+    height: 46px
+}
+
+.buttons .cart {
+    border-color: #ff7676;
+    color: #ff7676
+}
+
+.buttons .cart:hover {
+    background-color: #e86464 !important;
+    color: #fff
+}
+
+.card-body {
+    padding: 0.3rem 0.3rem 0.2rem
+}

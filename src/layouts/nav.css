@@ -1,0 +1,14 @@
+.nav-link{
+    color: #fff;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s linear;
+    letter-spacing: 0.1rem;
+    position: relative;
+}
+.navbar{
+    background: #222;
+    padding: 0.5rem 1rem;
+}
